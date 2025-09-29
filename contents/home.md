@@ -1,17 +1,23 @@
+# English Version (home.md)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%E5%8F%91%E4%BA%AE-%E5%AD%99-586b43118/)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+A seasoned technology executive and the Chief Product Officer at **Chicheng**. With over two decades of deep expertise spanning the oil & gas, chemical, and discrete manufacturing sectors, I architect and deliver transformative industrial software solutions.
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+My career has been dedicated to bridging the gap between complex engineering operations and cutting-edge digital technology. At **AVEVA**, a world leader in industrial software, I served as Principal Architect for nearly 15 years, spearheading solutions for some of the world's most complex assets. My work empowers global enterprises to enhance returns on their infrastructure investments through state-of-the-art technologies.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: sunfaliang[at]qq.com
+
+#### Core Expertise
+- **Digital Twin & Digital Handover**
+- **Asset Performance Management (APM)**
+- **Process Simulation & Predictive Maintenance**
+- **Product Lifecycle Management (PLM, PDM, CAPP, CAD)**
+- **Industrial Digital Transformation Strategy**
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+- **M.B.A.**, Beijing University of Technology, 2010–2012.
+- **Second Degree, Computer Science and Technology**, Beijing University of Technology, 2005–2007.
+- **B.Eng., Machinery Manufacturing Process and Equipment**, Henan Institute of Technology, 1994–1998.
