@@ -1,5 +1,3 @@
-# English Version (home.md)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%E5%8F%91%E4%BA%AE-%E5%AD%99-586b43118/)
 
 A seasoned technology executive and the Chief Product Officer at **Chicheng**. With over two decades of deep expertise spanning the oil & gas, chemical, and discrete manufacturing sectors, I architect and deliver transformative industrial software solutions.

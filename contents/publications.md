@@ -1,5 +1,3 @@
-# English Version (events_and_engagements.md)
-
 ### Industry Engagements & Keynotes
 
 *As a recognized expert in industrial digital transformation, I am frequently invited to share insights at major industry forums.*
